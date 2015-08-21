@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_label">Slice House Rewards Login</string>
+    <string name="user_id">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="zero">Zero</string>
+    <string name="points_caps">POINTS</string>
+</resources>

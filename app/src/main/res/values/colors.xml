@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#FFFCEFCB</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="half_black">#99000000</color>
+    <color name="third_black">#33000000</color>
+    <color name="orange">#FFFF6600</color>
+    <color name="cream">#ffbc97</color>
+    <color name="invisible">#00000000</color>
+    <color name="light_grey">#FFEEEEEE</color>
+    <color name="dark_grey">#FF333333</color>
+    <color name="medium_grey">#FF999999</color>
+    <color name="link">#FF0000FF</color>
+    <color name="link_pressed">#FF333333</color>
+</resources>

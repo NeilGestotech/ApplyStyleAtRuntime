@@ -1,0 +1,37 @@
+{
+  "StyleSheet":{
+    "MainProperties": {
+      "$mainTextColor": "#FFFFFF",
+      "$mainTextFont": "Arial",
+      "$mainTextSize": 20,
+      "$backgroundColor": "#000000",
+      "$foregroundColor": "#FFFFFF",
+      "$red1Color": "#FF0000",
+      "$whiteColor": "#FFFFFF",
+      "$blackColor": "#000000",
+      "$redColor": "#98161F",
+      "$clearColor": "0",
+      "Label":{
+        "textColor":"$whiteColor"
+      },
+      "Button":{
+        "backgroundColor": "$redColor",
+        "textColor": "$whiteColor",
+        "borderWidth": 10,
+        "borderColor": "$whiteColor"
+      },
+      "SplashButton":{
+        "backgroundColor": "$redColor",
+        "textColor": "$whiteColor",
+        "borderWidth": 10,
+        "borderColor": "$blackColor"
+      },
+      "EditText":{
+        "backgroundColor":"$clearColor",
+        "textColor": "$whiteColor",
+        "borderWidth": 10,
+        "borderColor": "$blackColor"
+      }
+    }
+  }
+}
